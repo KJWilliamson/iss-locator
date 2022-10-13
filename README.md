@@ -1,10 +1,10 @@
 
 ## Where in the world is the International Space Station (ISS) ?
 
-### Objectives
+<!-- ### Objectives
 - Use the requests package to query real-world data
 - Improve skills with dictionaries and indexing
-- Learn about the built-in Python [Turtle](https://docs.python.org/3.3/library/turtle.html?highlight=turtle) graphics library
+- Learn about the built-in Python [Turtle](https://docs.python.org/3.3/library/turtle.html?highlight=turtle) graphics library. -->
 
 ### Part A
 Using this public API, write a python program to obtain a list of the astronauts who are currently in space.  Print their full names, the spacecraft they are currently on board, and the total number of astronauts in space.
@@ -23,14 +23,14 @@ Find out the next time that the ISS will be overhead of Indianapolis IN.  Use o
 
 You will need to supply the lat/lon coordinates as query parameters to this url.  The passover times are returned as timestamps, so you will need to use the `time.ctime()` method to convert them to human-readable text.  Render the next passover time next to the Indianapolis location dot that you plotted earlier.
 
-### PR (Pull Request) Workflow for this Assignment
+<!--  ### PR (Pull Request) Workflow for this Assignment
 1. *Fork* this repository into your own personal github account.
 2. Then *Clone* your own repo to your local development machine.
 3. Create a separate branch named `dev`, and checkout the branch.
 5. Commit your changes, then `git push` the branch back to your own github account.
 5. From your own Github repo, create a pull request (PR) from your `dev` branch back to your own master.
 6. Copy/Paste the URL **link to your PR** as your assignment submission.
-7. Your grader will post code review comments inline with your code, in your github account. Be sure to respond to any comments and make requested changes. **RESUBMIT** a new link to your PR after making changes.  This is the code review iteration cycle.
+7. Your grader will post code review comments inline with your code, in your github account. Be sure to respond to any comments and make requested changes. **RESUBMIT** a new link to your PR after making changes.  This is the code review iteration cycle.  -->
 
 
 
